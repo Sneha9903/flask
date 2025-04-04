@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f0f2f5, #dbeafe);
+    margin: 0;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #1e3a8a;
+    margin-bottom: 30px;
+  }
+  
+  .chart-container {
+    background-color: #ffffff;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    padding: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  canvas {
+    width: 100% !important;
+    height: auto !important;
+  }
+  
